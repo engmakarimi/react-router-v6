@@ -1,0 +1,318 @@
+[
+    {
+        "_id": 22,
+        "title": "Hibernate in Action",
+        "isbn": "193239415X",
+        "pageCount": 400,
+        "publishedDate": {
+            "$date": "2004-08-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer.jpg",
+        "longDescription": "Hibernate practically exploded on the Java scene. Why is this open-source tool so popular  Because it automates a tedious task: persisting your Java objects to a relational database. The inevitable mismatch between your object-oriented code and the relational database requires you to write code that maps one to the other. This code is often complex, tedious and costly to develop. Hibernate does the mapping for you.    Not only that, Hibernate makes it easy. Positioned as a layer between your application and your database, Hibernate takes care of loading and saving of objects. Hibernate applications are cheaper, more portable, and more resilient to change. And they perform better than anything you are likely to develop yourself.    Hibernate in Action carefully explains the concepts you need, then gets you going. It builds on a single example to show you how to use Hibernate in practice, how to deal with concurrency and transactions, how to efficiently retrieve objects and use caching.    The authors created Hibernate and they field questions from the Hibernate community every day - they know how to make Hibernate sing. Knowledge and insight seep out of every pore of this book.",
+        "status": "PUBLISH",
+        "authors": [
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 23,
+        "title": "Hibernate in Action (Chinese Edition)",
+        "pageCount": 400,
+        "publishedDate": {
+            "$date": "1999-06-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer-cn.jpg",
+        "status": "PUBLISH",
+        "authors": [
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 24,
+        "title": "Java Persistence with Hibernate",
+        "isbn": "1932394885",
+        "pageCount": 880,
+        "publishedDate": {
+            "$date": "2006-11-01T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer2.jpg",
+        "longDescription": "Persistence -- the ability of data to outlive an instance of a program -- is central to modern applications. Hibernate, the most popular Java persistence tool, provides automatic and transparent object/relational mapping so it's a snap to work with SQL databases in Java applications. Hibernate conforms to the new EJB 3.0 and Java Persistence 1.0 standards.    Java Persistence with Hibernate explores Hibernate by developing an application that ties together hundreds of individual examples. You'll immediately dig into the rich programming model of Hibernate 3.2 and Java Persistence, working through queries, fetching strategies, caching, transactions, conversations, and more. You'll also appreciate the well-illustrated discussion of best practices in database design, object/relational mapping, and optimization techniques.    In this revised edition of Manning's bestselling Hibernate in Action, authors Christian Bauer and Gavin King -- the founder of the Hibernate project -- cover Hibernate 3.2 in detail along with the EJB 3.0 and Java Persistence 1.0 standards.",
+        "status": "PUBLISH",
+        "authors": [
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 28,
+        "title": "Hibernate Search in Action",
+        "isbn": "1933988649",
+        "pageCount": 488,
+        "publishedDate": {
+            "$date": "2008-12-21T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bernard.jpg",
+        "longDescription": "Good search capability is one of the primary demands of a business application. Engines like Lucene provide a great starting point, but with complex applications it can be tricky to implement. It's tough to keep the index up to date, deal with the mismatch between the index structure and the domain model, handle querying conflicts, and so on.    Hibernate Search is an enterprise search tool based on Hibernate Core and Apache Lucene. It provides full text search capabilities for Hibernate-based applications without the infrastructural code required by other search engines. With this free, open-source technology, you can quickly add high-powered search features in an intelligent, maintainable way.    Hibernate Search in Action is a practical, example-oriented guide for Java developers with some background in Hibernate Core. As the first book to cover Hibernate Search, it guides you through every step to set up full text search functionality in your Java applications. The book also introduces core search techniques and reviews the relevant parts of Lucene, in particular the query capabilities.    Hibernate Search in Action also provides a pragmatic, how-to exploration of more advanced topics such as Search clustering. For anyone using Hibernate or JBoss Seam, this book is the definitive guide on how to add or enhance search features in their applications.",
+        "status": "PUBLISH",
+        "authors": [
+            "Emmanuel Bernard",
+            "John Griffin"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 30,
+        "title": "jQuery in Action, Second Edition",
+        "isbn": "1935182323",
+        "pageCount": 488,
+        "publishedDate": {
+            "$date": "2010-06-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault2.jpg",
+        "longDescription": "A really good web development framework anticipates your needs. jQuery does more   it practically reads your mind. Developers fall in love with this JavaScript library the moment they see 20 lines of code reduced to three. jQuery is concise and readable. Its unique \"chaining\" model lets you perform multiple operations on a page element in succession. And with version 1.4, there's even more to love about jQuery, including new effects and events, usability improvements, and more testing options.    jQuery in Action, Second Edition is a fast-paced introduction and guide. Building on the bestselling first edition, it adds new examples, more labs, and deeper explanations of important features. You   ll learn how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. The book's unique \"lab pages\" anchor the explanation of each new concept in a practical example. You'll learn how jQuery interacts with other tools and frameworks and how to build jQuery plugins. This book requires a modest knowledge of JavaScript and Ajax.",
+        "status": "PUBLISH",
+        "authors": [
+            "Bear Bibeault",
+            "Yehuda Katz"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 35,
+        "title": "Website Owner's Manual",
+        "isbn": "1933988452",
+        "pageCount": 296,
+        "publishedDate": {
+            "$date": "2009-10-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/boag.jpg",
+        "longDescription": "Just because you're responsible for your organization's web presence doesn't mean you know how to build a website. The job of planning, launching, and managing a site often falls to people who have little or no experience in web design or development. Website Owner's Manual is a book for the thousands of marketers, IT managers, project leaders, and business owners who need to put a website in place and keep it running with a minimum of trouble.    Website Owner's Manual helps you form a vision for your site, guides you through the process of selecting a web design agency, and gives you enough background information to make intelligent decisions throughout the development process. This book provides a jargon-free overview of web design, including accessibility, usability, online marketing, and web development techniques. You'll gain a practical understanding of the technologies, processes, and ideas that drive a successful website.",
+        "status": "PUBLISH",
+        "authors": [
+            "Paul A. Boag"
+        ],
+        "category": "Internet"
+    },
+    {
+        "_id": 51,
+        "title": "Mobile Agents",
+        "isbn": "1884777368",
+        "pageCount": 320,
+        "publishedDate": {
+            "$date": "1997-03-01T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cockayne.jpg",
+        "longDescription": "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet. The book presents the reality of today's agent technologies and the future that this technology promises. It teaches how to create and deploy the major mobile agent systems (Telescript, Agent Tcl, Ara, Aglets Workbench) and how to solve a variety of problems on the Internet. Each of the chapters was written in collaboration with the original developers of the agent systems.",
+        "status": "PUBLISH",
+        "authors": [
+            "William R. Cockayne and Michael Zyda",
+            "editors"
+        ],
+        "category": "Internet"
+    },
+    {
+        "_id": 37,
+        "title": "Hello! Python",
+        "isbn": "1935182080",
+        "pageCount": 350,
+        "publishedDate": {
+            "$date": "2012-02-13T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/briggs.jpg",
+        "longDescription": "Learn Python the fast and fun way! Hello! Python is a fully-illustrated, project-driven tutorial designed to get you up and running with Python, no experience required. It's full of projects that help you learn the way most programmers do   one step at a time, starting with the basics, and then applying your new skills in useful programs.    Hello! Python fully covers the building blocks of Python programming and gives you a gentle introduction to more advanced topics such as object oriented programming, functional programming, network programming, and program design. New (or nearly new) programmers will learn most of what they need to know to start using Python immediately.    The book presents several practical projects, including games, business, and graphical applications. Each example provides a solid base for you to develop your own programs. As you dig into Python, you'll see how programs are created, and the reasons behind the technical decisions.    The book covers Python's large standard library gradually and in the context of sample apps, so the reader isn't overwhelmed with a large number of library functions to absorb all at once. Upon completing the book, the reader will have a good grasp of Python, know several technologies and libraries related to Python and be able to identify many resources for future growth as a programmer.",
+        "status": "PUBLISH",
+        "authors": [
+            "Anthony Briggs"
+        ],
+        "category": "Python"
+    },
+    {
+        "_id": 38,
+        "title": "PFC Programmer's Reference Manual",
+        "isbn": "1884777554",
+        "pageCount": 368,
+        "publishedDate": {
+            "$date": "1998-06-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brooks.jpg",
+        "longDescription": "PFC Programmers' Reference Manual provides information that should prove indispensible for the PowerBuilder programmer trying to learn the PowerBuilder Foundation Classes. It lists all of the objects and functions that they might use for a project with notes from the author on each function. Service-based architecture and appropriate object-oriented techniques are stressed throughout.    The more difficult objects and services are given special attention; these are the ones that are sure to enhance your image as an expert in this emerging technology. The text is written with the same easy-to-understand prose that has marked the PowerBuilder Dojo as one of the premier PowerBuilder sites worldwide.    At first, the programmer will find this book a comprehensive guide to the wide scope of these libraries. Later it will serve as a handy memory tool for finding exactly what is needed at implementation time.    The manager will find this book an invaluable source for understanding which tools are available for immediate implementation.    PFC Programmers' Reference Manual covers PowerBuilder version 6 as well as version 5",
+        "status": "PUBLISH",
+        "authors": [
+            "Richard Brooks"
+        ],
+        "category": "PowerBuilder"
+    },
+    {
+        "_id": 45,
+        "title": "The Quick Python Book, Second Edition",
+        "isbn": "193518220X",
+        "pageCount": 360,
+        "publishedDate": {
+            "$date": "2010-01-01T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ceder.jpg",
+        "longDescription": "This revision of Manning's popular The Quick Python Book offers a clear, crisp introduction to the elegant Python programming language and its famously easy-to-read syntax. Written for programmers new to Python, this updated edition covers features common to other languages concisely, while introducing Python's comprehensive standard functions library and unique features in detail.    After exploring Python's syntax, control flow, and basic data structures, the book shows how to create, test, and deploy full applications and larger code libraries. It addresses established Python features as well as the advanced object-oriented options available in Python 3. Along the way, you'll survey the current Python development landscape, including GUI programming, testing, database access, and web frameworks.    WHAT'S INSIDE:        * Concepts and Python 3 features      * Regular expressions and testing      * Python tools      * All the Python you need   nothing you don't",
+        "status": "PUBLISH",
+        "authors": [
+            "Naomi R. Ceder"
+        ],
+        "category": "Python"
+    },
+    {
+        "_id": 46,
+        "title": "Internet and Intranet Applications with PowerBuilder 6",
+        "isbn": "1884777600",
+        "pageCount": 390,
+        "publishedDate": {
+            "$date": "2000-12-01T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cervenka.jpg",
+        "longDescription": "If you're a PowerBuilder programmer, Internet and Intranet Applications with PowerBuilder 6 is your ticket to learning Web.PB and related technologies. The book covers everything you need to know to build web browser and server programs with the PowerBuilder 6 Internet Toolkit. Also covered is how to write winsock programs with PB, and Distributed PB is covered to the extent necessary to learn Web.PB.",
+        "status": "PUBLISH",
+        "authors": [
+            "Tom Cervenka"
+        ],
+        "category": "PowerBuilder"
+    },
+    {
+        "_id": 56,
+        "title": "GWT in Practice",
+        "isbn": "1933988290",
+        "pageCount": 376,
+        "publishedDate": {
+            "$date": "2008-04-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cooper.jpg",
+        "longDescription": "If you   re a web developer, you already know that you can use Ajax to add rich, user-friendly, dynamic features to your applications. With the Google Web Toolkit (GWT), a new Ajax tool from Google that automatically converts Java to JavaScript, you can build Ajax applications using the Java language. GWT lets you focus on application design and functionality, rather than on browser differences, and allows you to re-use code throughout the layers of your applications.    GWT in Practice is an example-driven, code-rich book designed for web developers who have already learned the basics of GWT. After a quick review of GWT fundamentals, GWT in Practice presents scores of handy, reusable solutions to the problems you face when you need to move beyond    Hello World    and    proof of concept    applications. This book skips the theory and looks at the way things really work when you   re building projects in GWT.    You   ll learn    How to create and customize widgets  The ins and outs of RPC  Packaging and building with Maven and Ant  Using the Java Persistence API with GWT  Effective internationalization  GWT in Practice shows you where GWT fits into the Enterprise Java developer's toolset. Written by expert authors Robert Cooper and Charlie Collins, this book combines sharp insight with hard-won experience. Readers will find thorough coverage of all aspects of GWT development from the basic GWT concepts and essentials to in-depth and complete real world example applications. If you know the basics and are ready to get your hands dirty, then you need this book.",
+        "status": "PUBLISH",
+        "authors": [
+            "Robert Cooper",
+            "Charles Collins"
+        ],
+        "category": "WebDevelopment"
+    },
+    {
+        "_id": 59,
+        "title": "Ajax in Action",
+        "isbn": "1932394613",
+        "pageCount": 680,
+        "publishedDate": {
+            "$date": "2005-10-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane.jpg",
+        "longDescription": "Web users are getting tired of the traditional web experience. They get frustrated losing their scroll position; they get annoyed waiting for refresh; they struggle to reorient themselves on every new page. And the list goes on. With asynchronous JavaScript and XML, known as \"Ajax,\" you can give them a better experience. Once users have experienced an Ajax interface, they hate to go back. Ajax is new way of thinking that can result in a flowing and intuitive interaction with the user.\n<br>\n<i>Ajax in Action</i> helps you implement that thinking--it explains how to distribute the application between the client and the server (hint: use a \"nested MVC\" design) while retaining the integrity of the system. You will learn how to ensure your app is flexible and maintainable, and how good, structured design can help avoid problems like browser incompatibilities. Along the way it helps you unlearn many old coding habits. Above all, it opens your mind to the many advantages gained by placing much of the processing in the browser. If you are a web developer who has prior experience with web technologies, this book is for you.",
+        "status": "PUBLISH",
+        "authors": [
+            "Dave Crane",
+            "Eric Pascarello with Darren James"
+        ],
+        "category": "Internet"
+    },
+    {
+        "_id": 60,
+        "title": "Ajax in Practice",
+        "isbn": "1932394990",
+        "pageCount": 536,
+        "publishedDate": {
+            "$date": "2007-06-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane2.jpg",
+        "longDescription": "Ajax gives web developers the potential to create rich user-centered Internet applications. But Ajax also adds a new level of complexity and sophistication to those applications. Ajax in Practice tackles Ajax head-on, providing countless hands-on techniques and tons of reusable code to address the specific issues developers face when building Ajax-driven solutions.    After a brief overview of Ajax, this book takes the reader through dozens of working examples, presented in an easy-to-use cookbook format. Readers will learn how to implement drag-and-drop interfaces and discover how to create effective navigation strategies for their applications. Unlike a traditional cookbook, Ajax in Practice provides a thorough discussion of each technique presented and shows how the individual components can be connected to create powerful solutions. A fun \"mash-up\" chapter concludes the book. Throughout the book, the examples chosen are interesting, entertaining, and practical.    With this book you will:  Go beyond what Ajax is and learn how to put Ajax to work.  Master numerous techniques for user interface design and site navigation.  Work hands-on with professional-grade reusable Ajax code designed to solve real problems.",
+        "status": "PUBLISH",
+        "authors": [
+            "Dave Crane",
+            "Jord Sonneveld and Bear Bibeault with Ted Goddard",
+            "Chris Gray",
+            "Ram Venkataraman",
+            "Joe Walker"
+        ],
+        "category": "WebDevelopment"
+    },
+    {
+        "_id": 61,
+        "title": "Prototype and Scriptaculous in Action",
+        "isbn": "1933988037",
+        "pageCount": 544,
+        "publishedDate": {
+            "$date": "2007-04-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crane3.jpg",
+        "longDescription": "Common Ajax tasks should be easy, and with Prototype and Scriptaculous they are. Prototype and Scriptaculous are libraries of reusable JavaScript code that simplify Ajax development. Prototype provides helpful methods and objects that extend JavaScript in a safe, consistent way. Its clever Ajax request model simplifies cross-browser development. Scriptaculous, which is based on Prototype, offers handy pre-fabricated widgets for rich UI development.    Prototype and Scriptaculous in Action is a comprehensive, practical guide that walks you feature-by-feature through the two libraries. First, you   ll use Scriptaculous to make easy but powerful UI improvements. Then you   ll dig into Prototype   s elegant and sparse syntax. See how a few characters of Prototype code can save a dozen lines of JavaScript. By applying these techniques, you can concentrate on the function and flow of your application instead of the coding details. This book is written for web developers with a working knowledge of JavaScript.",
+        "status": "PUBLISH",
+        "authors": [
+            "Dave Crane",
+            "Bear Bibeault with Tom Locke"
+        ],
+        "category": "WebDevelopment"
+    },
+    {
+        "_id": 63,
+        "title": "POJOs in Action",
+        "isbn": "1932394583",
+        "pageCount": 592,
+        "publishedDate": {
+            "$date": "2006-01-01T00:00:00.000-0800"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crichardson.jpg",
+        "longDescription": "There is agreement in the Java community that EJBs often introduce more problems than they solve. Now there is a major trend toward lightweight technologies such as Hibernate, Spring, JDO, iBATIS, and others, all of which allow the developer to work directly with the simpler Plain Old Java Objects, or POJOs. Bowing to the new consensus, EJB 3 now also works with POJOs.    POJOs in Action describes these new, simpler, and faster ways to develop enterprise Java applications. It shows you how to go about making key design decisions, including how to organize and encapsulate the domain logic, access the database, manage transactions, and handle database concurrency.    Written for developers and designers, this is a new-generation Java applications guide. It helps you build lightweight applications that are easier to build, test, and maintain. The book is uniquely practical with design alternatives illustrated through numerous code example",
+        "status": "PUBLISH",
+        "authors": [
+            "Chris Richardson"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 65,
+        "title": "Hello! HTML5 & CSS3",
+        "isbn": "1935182897",
+        "pageCount": 325,
+        "publishedDate": {
+            "$date": "2012-10-17T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther.jpg",
+        "longDescription": "HTML and CSS are the foundation of the web, and HTML5 and CSS3 are the latest standards. If you build web pages, mobile apps, or do any type of development at all, you'll have to learn HTML5 and CSS3, so why not start now  Quick and Easy HTML5 and CSS3 will give you a smart, snappy, and fun introduction to building web sites with these really cool new tools.    Quick and Easy HTML5 and CSS3 is written for the web designer or developer who wants a fast, example-oriented introduction to the new HTML and CSS features. After a quick review of the basics, you'll turn to what's new. Start by learning to apply important new elements and attributes by building your first real HTML5 pages. You'll then take a quick tour through the new APIs: Form Validation, Canvas, Drag & Drop, Geolocation and Offline Applications. You'll also discover how to include video and audio on your pages without plug-ins, and how to draw interactive vector graphics with SVG.    Once you've explored the fundamentals of HTML5, it's time to add some style to your pages with CSS3. New CSS features include drop shadows, borders, colors, gradients and backgrounds. In addition, you'll learn to layout your pages with the new flexible box and layout modules, and add the finishing touches with custom fonts. You'll also see how to target specific devices with media queries, and do all of it with less code thanks to the new selectors and pseudo classes.    Finally you will walk through several large examples where you see all the features of HTML5 and CSS3 working together to produce responsive and lightweight applications which you can interact with just like native desktop apps.",
+        "status": "PUBLISH",
+        "authors": [
+            "Rob Crowther"
+        ],
+        "category": "Internet"
+    },
+    {
+        "_id": 66,
+        "title": "Seam in Action",
+        "isbn": "1933988401",
+        "pageCount": 624,
+        "publishedDate": {
+            "$date": "2008-08-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dallen.jpg",
+        "longDescription": "Seam is an exciting new application framework based on the Java EE platform that you can use to build rich, web-based business applications. Seam is rapidly capturing the interest of Java enterprise developers because of its focus on simplicity, ease of use, transparent integration, scalability, and developer choice.    Seam in Action offers a practical and in-depth look at Seam from outside the walls of RedHat/JBoss. The book puts Seam head-to-head with the complexities in the Java EE architecture. It discusses the shortcomings of JSF, the challenges of using Java persistence in the web environment, and other common development roadblocks, then shows how Seam makes these problems just melt away. In covering Seam, the author doesn't just ask you to sprinkle annotations on your code and expect that you understand how it works. Instead, the author lays down the facts, shows you the steps, reveals the logic, and diagrams the flow, so that by the end of the book, you will not only have gained a deep understanding of Seam, but will also come away ready to teach the material to others.    All too often, developers spend a majority of their time integrating disparate technologies, manually tracking state, struggling to understand JSF, wrestling with Hibernate exceptions, and constantly redeploying applications, rather than on the logic pertaining to the business at hand. Seam in Action dives deep into thorough explanations of how Seam eliminates these non-core tasks by leveraging configuration by exception, Java 5 annotations, and aspect-oriented programming.    To start off, you will see a working Java EE-compliant application come together by the end of the second chapter. As you progress through the book, you will discover how Seam eliminates unnecessary layers and configurations and uses an inversion of control technical known as bijection supplemented by a liberal use of the Unified Expression Language (EL) to establish the missing link between JSF, EJB 3 and JavaBean components. You also witness how Seam opens doors for you to incorporate technologies you previously have not had time to learn, such as business processes and stateful page flows (jBPM), rule-based security, Ajax remoting, PDF generation, Spring integration, and more.",
+        "status": "PUBLISH",
+        "authors": [
+            "Dan Allen"
+        ],
+        "category": "Java"
+    },
+    {
+        "_id": 67,
+        "title": "Wicket in Action",
+        "isbn": "1932394982",
+        "pageCount": 392,
+        "publishedDate": {
+            "$date": "2008-08-01T00:00:00.000-0700"
+        },
+        "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dashorst.jpg",
+        "longDescription": "Wicket bridges the mismatch between the web's stateless protocol and Java's OO model. The component-based Wicket framework shields you from the HTTP under a web app so you can concentrate on business problems instead of the plumbing code. In Wicket, you use logic-free HTML templates for layout and standard Java for an application's behavior. The result  Coding a web app with Wicket feels more like regular Java programming.    Wicket in Action is a comprehensive guide for Java developers building Wicket-based web applications. It introduces Wicket's structure and components, and moves quickly into examples of Wicket at work. Written by core committers, this book shows you the \"how-to\" and the \"why\" of Wicket. You'll learn to use and customize Wicket components, to interact with Spring and Hibernate, and to implement rich Ajax-driven features.",
+        "status": "PUBLISH",
+        "authors": [
+            "Martijn Dashorst",
+            "Eelco Hillenius"
+        ],
+        "category": "WebDevelopment"
+    }
+]
