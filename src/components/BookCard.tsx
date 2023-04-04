@@ -10,8 +10,8 @@ const BookCard = ({title,status,authors}: BookCardType) => {
         <h5 className="mb-1">{title}</h5>
         <small>{status}</small>
       </div>
-      <span className="mb-1">authors: </span>
-      {authors.map(p => <small key={p}>{p}-</small>)}
+      <strong className="mb-1">authors: </strong>
+      {authors.join(',')}
     </>
   );
 };
